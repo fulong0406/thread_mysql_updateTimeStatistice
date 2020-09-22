@@ -1,1 +1,2 @@
 # thread_mysql_updateTimeStatistice
+开启10个读线程和10个更新线程，利用定时器同时读取mysql中的数据，统计执行sql语句的时间
